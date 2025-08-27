@@ -18,7 +18,7 @@ It served for my private project "Zeus DLP System" for almost a year, it now com
 - support all c++ STL sequence and association containers, std::tuple, std::variant, std::array(serialization only), std::forward_list(serialization only) and customized types
 
 ## Examples
-All the examples are placed in test.cpp, here we demonstrate some basic usages:
+All the examples are placed in example.cpp, here we demonstrate some basic usages:
 
 - serialize a basic STL container
 ```C++
