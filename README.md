@@ -1,7 +1,7 @@
 # ZPacker is a lightweight data serialization & deserialization toolkit
 It designed for scenarios that data must be persistent but modern data interchange types are not present
 
-It is lightweight, non third-party dependencies and header only, can easily to integrate with existing projects that written by C++
+It is lightweight, no third-party dependencies and header only, can easily to integrate with existing projects that written in C++
 
 It served for my private project "Zeus DLP System" for almost a year, it now comes public for guys who needs it
 
