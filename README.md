@@ -5,8 +5,8 @@ It is lightweight, no third-party dependencies and header only, can easily to in
 
 It served for my private project "Zeus DLP System" for almost a year, it now comes public for guys who needs it
 
-## Application Scenario
-- It can be used for data exchange in some inter-process communication such as PIPE and ALPC
+## Application Scenarios
+- It can be used for data exchange in some inter-process communication such as PIPE, shared memory and ALPC
 - It can be used for windows driver to load & save some configuration data in the registry or on the disk
 - Used in some embeded systems
 
@@ -18,7 +18,7 @@ It served for my private project "Zeus DLP System" for almost a year, it now com
 - support all c++ STL sequence and association containers, std::tuple, std::variant, std::array(serialization only), std::forward_list(serialization only) and customized types
 
 ## Examples
-All the examples are placed in example.cpp, here we demonstrate some basic usages:
+All the examples are placed in example.cpp, here are some basic usages:
 
 - serialize a basic STL container
 ```C++
